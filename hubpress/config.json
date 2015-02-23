@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "HozakaN",
-    "repositoryName": "hozakan.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"HozakaN","repositoryName":"hozakan.github.io","branch":"master","cname":"www.guillaume-imbert.fr"},"site":{"url":"http://www.guillaume-imbert.fr"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://HozakaN.github.io/themes/Casper"}}
